@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget{
                     style: const TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                   ),
                   Text("Років: ${user.age}\nСтатус: ${user.description}",
-                    style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w100,),
+                    style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w300,),
                   )
                 ],
               ),
